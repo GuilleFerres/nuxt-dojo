@@ -1,5 +1,3 @@
-
-
 <template>
     <div>
         <header class="shadow-sm bg-white">
@@ -9,6 +7,7 @@
                     <li><NuxtLink to="/">Home</NuxtLink></li>
                     <li><NuxtLink to="/about">About</NuxtLink></li>
                     <li><NuxtLink to="/products" class="btn">Products</NuxtLink></li>
+                    <li><NuxtLink to="/products/abc" class="btn">abc products</NuxtLink></li>
                 </ul>
                 
             </nav>
